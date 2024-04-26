@@ -1,5 +1,7 @@
+[![MasterHead](https://www.sfu.ca/content/sfu/main/campuses/burnaby/jcr:content/main_content/image.img.640.medium.jpg/1614268345466.jpg)]
 <h1 align="center">Hi 👋, I'm Tallal Mohar</h1>
 <h3 align="center">A passionate software developer and engineer.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tallalmohar&label=Profile%20views&color=0e75b6&style=flat" alt="tallalmohar" /> </p>
 
