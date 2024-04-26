@@ -1,4 +1,4 @@
-[![MasterHead](https://www.sfu.ca/content/sfu/main/campuses/burnaby/jcr:content/main_content/image.img.640.medium.jpg/1614268345466.jpg)]
+![MasterHead](https://www.sfu.ca/content/sfu/main/campuses/burnaby/jcr:content/main_content/image.img.640.medium.jpg/1614268345466.jpg)
 <h1 align="center">Hi 👋, I'm Tallal Mohar</h1>
 <h3 align="center">A passionate software developer and engineer.</h3>
 
