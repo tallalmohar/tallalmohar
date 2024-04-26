@@ -1,6 +1,7 @@
 ![MasterHead](https://www.sfu.ca/content/sfu/main/campuses/burnaby/jcr:content/main_content/image.img.640.medium.jpg/1614268345466.jpg)
 <h1 align="center">Hi 👋, I'm Tallal Mohar</h1>
 <h3 align="center">A passionate software developer and engineer.</h3>
+<img align="right" width="400" atl="Cartoon image of coding" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tallalmohar&label=Profile%20views&color=0e75b6&style=flat" alt="tallalmohar" /> </p>
