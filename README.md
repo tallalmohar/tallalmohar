@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Frontend & Backend projects**
 
-- 🌱 I’m currently learning **Data Structures and Algortithms and React Native**
+- 🌱 I’m currently learning **Data Structures, Algortithms and React Native**
 
 - 📫 How to reach me **tallalmoohar@gmail.com**
 
