@@ -4,17 +4,8 @@
 <img align="right" width="400" atl="Cartoon image of coding" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tallalmohar&label=Profile%20views&color=0e75b6&style=flat" alt="tallalmohar" /> </p>
-
-<p align="left"> <a href="https://twitter.com/tallalmohar" target="blank"><img src="https://img.shields.io/twitter/follow/tallalmohar?logo=twitter&style=for-the-badge" alt="tallalmohar" /></a> </p>
-
-- 🔭 I’m currently working on **Frontend & Backend projects**
-
-- 🌱 I’m currently learning **Data Structures, Algortithms and React Native**
-
-- 📫 How to reach me **tallalmoohar@gmail.com**
-
-- ⚡ Fun fact **I love to hike and workout.**
+- 🔭 I’m currently a 3rd year Software Sytems @ SFU
+- 💻 Connect with me to work on projects or discuss tech
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
