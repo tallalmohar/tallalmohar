@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently a 3rd year Software Sytems @ SFU
-- 💻 Connect with me to work on projects or discuss tech
+- 💻 Working on projects & leetcode
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
