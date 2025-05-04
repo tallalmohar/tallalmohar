@@ -5,7 +5,8 @@
 
 
 - 🔭 I’m currently a 3rd year Software Sytems @ SFU
-- 💻 Working on projects & leetcode
+- 💻 Working on NBA Fantasy FullStack Application
+- ⛰️ I love Working out, Jui Jitsui, Hiking & Eating Food
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
