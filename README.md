@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a CS student @ SFU with a concentration in Artificial Intelligence.<br><br>- 🔭 I’m working as a Software Developer @ <br>- 📚 I'm currently learning Systems Programming<br>- ⚡ In my free time I workout & play basketball</p>
+<p align="left">I'm a CS student @ SFU with a concentration in Artificial Intelligence.<br><br>- 🔭 I’m working as a Software Developer @ <br>- 📚 1.01^365 <br>- ⚡ In my free time I workout & play basketball</p>
 
 ###
 
